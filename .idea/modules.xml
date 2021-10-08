@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/My_Application.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/My_Application.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/My_Application.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/My_Application.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/local/My_Application.local.iml" filepath="$PROJECT_DIR$/.idea/modules/local/My_Application.local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remote/My_Application.remote.iml" filepath="$PROJECT_DIR$/.idea/modules/remote/My_Application.remote.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":remote" external.linked.project.path="$MODULE_DIR$/../../../remote" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="My Application" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":remote" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" />
+      </configuration>
+    </facet>
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/../../../remote/build" />
+        <option name="BUILDABLE" value="true" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../remote/build/classes/kotlin/main" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.7.0/766076c8559a8b346fbac3153b76f8c7dc45b360/converter-gson-2.7.0.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.7.0/2b05004c830525c62b20b6716480675c72aeda74/adapter-rxjava2-2.7.0.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.7.0/4cad28981ac608683e1ae366ed7913ddfb9cbf13/retrofit-2.7.0.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.50/b529d1738c7e98bbfa36a4134039528f2ce78ebf/kotlin-stdlib-1.3.50.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.14.4/4f6f76315e70d9af39a1125dc6ff7145e26e3040/okhttp-3.14.4.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.0/5151c737c01616c372c3d00ab145868ede10e826/rxjava-2.0.0.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.3/d9fb7a7926ffa635b3dcaa5049fb2bfa25b3e7d0/reactive-streams-1.0.3.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/3d9cd3e1bc7b92e95f43d45be3bfbcf38e36ab87/kotlin-stdlib-common-1.3.50.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/chaitanyaaggarwal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.17.2/78c7820b205002da4d2d137f6f312bd64b3d6049/okio-1.17.2.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="remote" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.50/b499f22fd7c3e9c2e5b6c4005221fa47fc7f9a7a/kotlin-reflect-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.50/59492b8dfb92522ba0ddb5dd1c4d0ef0a4fca1af/kotlin-script-runtime-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.3.50/b8e0110c386c08f46a8c5e45b8c64aece1914867/kotlin-scripting-common-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.3.50/53f579e1bee3dab3df915d923ad1bb43bc37cd18/kotlin-scripting-jvm-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/3d9cd3e1bc7b92e95f43d45be3bfbcf38e36ab87/kotlin-stdlib-common-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.50/b529d1738c7e98bbfa36a4134039528f2ce78ebf/kotlin-stdlib-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.1.1/3d2b7321cdef9ebf9cb7729ea4f75a6f6457df86/kotlinx-coroutines-core-1.1.1.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../remote/build/classes/java/main" />
+    <output-test url="file://$MODULE_DIR$/../../../remote/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../remote">
+      <sourceFolder url="file://$MODULE_DIR$/../../../remote/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../remote/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../remote/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../remote/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="My_Application.data" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:converter-gson:2.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:adapter-rxjava2:2.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:retrofit:2.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.14.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.reactivex.rxjava2:rxjava:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.17.2" level="project" />
+    <orderEntry type="module" module-name="My_Application.domain" scope="RUNTIME" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.reactivex.rxjava2:rxjava:2.2.16" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.paging:paging-runtime:2.1.1:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.paging:paging-common:2.1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.1.0-alpha03:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.1.0-alpha03:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.arch.core:core-runtime:2.0.1-alpha01:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.recyclerview:recyclerview:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.arch.core:core-common:2.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.viewpager:viewpager:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.customview:customview:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.loader:loader:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.core:core:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.lifecycle:lifecycle-common:2.1.0-alpha03" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.collection:collection:1.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.interpolator:interpolator:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.documentfile:documentfile:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.print:print:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: androidx.annotation:annotation:1.1.0-alpha02" level="project" />
+    <orderEntry type="module" module-name="My_Application.domain" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.mockito:mockito-core:2.22.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy:1.8.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy-agent:1.8.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.objenesis:objenesis:2.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.reactivex.rxjava2:rxjava:2.2.16" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.paging:paging-runtime:2.1.1:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.paging:paging-common:2.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.1.0-alpha03:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.1.0-alpha03:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.0.1-alpha01:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.1.0-alpha03" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.documentfile:documentfile:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.print:print:1.0.0:aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.1.0-alpha02" level="project" />
+  </component>
+</module>
